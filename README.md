@@ -15,7 +15,7 @@ Este repositório contém exemplos práticos de **padrões de projeto em Java**,
 ### Criacionais
 - [ ] Singleton
 - [x] Simple Factory *(não considerado pela comunidade)*
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
